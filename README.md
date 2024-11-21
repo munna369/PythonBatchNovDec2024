@@ -45,15 +45,15 @@ to push the changes
 
 python code written will create a python byte code working via interpreter which will pass to c compiler
 
-# python is a dynamic typed language
+ python is a dynamic typed language
 
-# python data types float,tuple,complex,bool,strings etc.....
+ python data types float,tuple,complex,bool,strings etc.....
 
-# indentation (errors caused becuase of tab spaces which are usually 4 for python)
+ indentation (errors caused becuase of tab spaces which are usually 4 for python)
 
-# interactive mode vs script mode
+ interactive mode vs script mode
 
-# print escapes sequence
+ print escapes sequence
 
     \t for tab space, \n for new line, \b overwrites previous charecter
 
