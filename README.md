@@ -30,7 +30,7 @@ to stage the changes
 to commit the changes
 
     git commit -m 'commit message'
-
+    
 to push the changes
 
     git push origin ' branchname'
