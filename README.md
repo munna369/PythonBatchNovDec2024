@@ -53,7 +53,26 @@ python code written will create a python byte code working via interpreter which
 
  interactive mode vs script mode
 
- print escapes sequence
 
-    \t for tab space, \n for new line, \b overwrites previous charecter
+## print escapes sequence
+
+    \t for tab space, \n for new line, \b overwrites previous charecter \x hexadecimal value
+
+## difference between keyword and identifier
+
+    keywords are words which have meaning whereas identifier is user defiend variables
+
+## keyword cannot be identifiers
+
+
+## multiline statements
+
+    lines should be 79 or less according to pep8
+    semi colon  can be used to reduce code in less lines or end the statement
+
+## python has no linit for storing values
+
+
+
+
 
