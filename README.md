@@ -72,7 +72,20 @@ python code written will create a python byte code working via interpreter which
 
 ## python has no linit for storing values
 
+## Run all will fail whenever there are expection
 
+## abs value give positive or negative
+
+## complex value > will have real and imaginary vlaue
+
+    Library import math will import all math oprations (beacuse python doesnot have sqrt opertaion )
+
+
+## Complex number > made to be complex :) complex number = real number +/- imaginary number pythin j is used to represent imajinary number
+
+    0j is also complex number followed by j is complex 4j j4 j5 not possible
+
+complex built in fucntion we can crete own complex numbers
 
 
 
