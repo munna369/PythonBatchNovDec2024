@@ -69,5 +69,8 @@ python code written will create a python byte code working via interpreter which
     lines should be 79 or less according to pep8
     semi colon  can be used to reduce code in less lines or end the statement
 
+## python has no linit for storing values
+
+
 
 
