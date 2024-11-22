@@ -53,6 +53,7 @@ python code written will create a python byte code working via interpreter which
 
  interactive mode vs script mode
 
+
 ## print escapes sequence
 
     \t for tab space, \n for new line, \b overwrites previous charecter \x hexadecimal value
@@ -70,6 +71,7 @@ python code written will create a python byte code working via interpreter which
     semi colon  can be used to reduce code in less lines or end the statement
 
 ## python has no linit for storing values
+
 
 
 
