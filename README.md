@@ -43,15 +43,15 @@ to push the changes
 
     Used for ./ execution or to add file type to execution
 
-python code written will create a python byte code working via interpreter which will pass to c compiler
+    python code written will create a python byte code working via interpreter which will pass to c compiler
 
- python is a dynamic typed language
+     python is a dynamic typed language
 
- python data types float,tuple,complex,bool,strings etc.....
+     python data types float,tuple,complex,bool,strings etc.....
 
- indentation (errors caused becuase of tab spaces which are usually 4 for python)
+     indentation (errors caused becuase of tab spaces which are usually 4 for python)
 
- interactive mode vs script mode
+    interactive mode vs script mode
 
 
 ## print escapes sequence
@@ -87,5 +87,15 @@ python code written will create a python byte code working via interpreter which
 
 complex built in fucntion we can crete own complex numbers
 
+## string operations
 
+    instead of single quote ' use double qoutes" when you have more than 1 single quote in line
+
+## multi line strings
+
+    python works line by line so line continuation opearator is must
+
+## string indexing
+
+    foraward and reverse indexing in acccessdig and negitive descenging order ofthe length of charecter
 
