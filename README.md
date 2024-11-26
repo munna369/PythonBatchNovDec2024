@@ -70,13 +70,13 @@ to push the changes
     lines should be 79 or less according to pep8
     semi colon  can be used to reduce code in less lines or end the statement
 
-### python has no linit for storing values
+#### python has no linit for storing values
 
-### Run all will fail whenever there are expection
+#### Run all will fail whenever there are expection
 
-### abs value give positive or negative
+#### abs value give positive or negative
 
-### complex value > will have real and imaginary vlaue
+#### complex value > will have real and imaginary vlaue
 
     Library import math will import all math oprations (beacuse python doesnot have sqrt opertaion )
 
