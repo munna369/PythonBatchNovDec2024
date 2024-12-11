@@ -99,3 +99,30 @@ complex built in fucntion we can crete own complex numbers
 
     foraward and reverse indexing in acccessdig and negitive descenging order ofthe length of charecter
 
+## sting attributes
+
+    in python we can add attributes unlike other languages
+
+    in python string can be added by adding numbers to string, 
+
+## str.isdigit():
+
+    Returns True if all characters in the string are digits. Digits include decimal characters and digits that need special handling, such as superscript digits and other Unicode digit characters.
+
+## str.isnumeric():
+
+    Returns True if all characters in the string are numeric. This includes all characters that str.isdigit() considers as digits, plus characters that are numeric but not digits, such as fractions, Roman numerals, and currency numerators.
+
+## ascii is buiit in function
+
+     checks if the string is an ascii 
+
+## find function seraches indexing left to right 
+
+    lly r findchecks the index from right to left
+    find(#str,num) checks from that position
+     find(#str,num1,num2) checks from that position to given index
+     find and rfind gives same result even when they work from different directions
+
+
+## zfill can be used to fill index position
